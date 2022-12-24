@@ -1,3 +1,7 @@
+# Languages
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junkichi89&theme=monokai)
+
 - 👋 Hi, I’m @Junkichi89
 - 👀 I’m interested in learning fronted end area
 - 🌱 I’m currently learning Nuxt.js and more...
