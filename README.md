@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ### フロントエンド
 
-- フロントエンド開発のためのセキュリティ入門 知らなかったでは済まされない脆弱性対策の必須知識
+- ![フロントエンド開発のためのセキュリティ入門 知らなかったでは済まされない脆弱性対策の必須知識](https://www.shoeisha.co.jp/book/detail/9784798169477)
   - 2023年　4月 20日　〜
 
 -  
