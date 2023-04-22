@@ -12,3 +12,15 @@
 Junkichi89/Junkichi89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+## Catch Up History
+
+
+### フロントエンド
+
+- フロントエンド開発のためのセキュリティ入門 知らなかったでは済まされない脆弱性対策の必須知識
+  - 2023年　4月 20日　〜
+
+-  
